@@ -1,0 +1,1 @@
+# HSR-Database_Obsidian
