@@ -1,5 +1,5 @@
 ---
-tags: readme, note
+tags: ""
 ---
 # HSR-Database_Obsidian
 
